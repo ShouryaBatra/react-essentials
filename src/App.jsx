@@ -1,5 +1,5 @@
-import Header from './components/Header/Header';
-import CoreConcept from './components/CoreConcept';
+import Header from './components/Header/Header.jsx';
+import CoreConcept from './components/CoreConcept.jsx';
 import componentsImg from './assets/components.png';
 import { CORE_CONCEPTS } from './data.js';
 import TabButton from './components/TabButton.jsx';
