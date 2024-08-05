@@ -28,7 +28,7 @@ function App() {
         </ul>
         </section>
         <section id="examples">
-          <h2>Examples</h2>
+          <h2>Examasdfples</h2>
           <menu>
             <TabButton onClick={() => handleClick('components')}>Components</TabButton>
             <TabButton onClick={() => handleClick('jsx')}>JSX</TabButton>
